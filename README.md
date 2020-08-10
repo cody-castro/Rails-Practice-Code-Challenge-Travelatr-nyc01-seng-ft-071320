@@ -1,6 +1,6 @@
 # Welcome to Travelatr!
 
-Travelatr is company with a singular vision: to enable people from all walks of life to write about their travels to spectacular destinations all over the globe in order to foster a sense of global community and a heightened cultural awareness.
+Travelatr is a company with a singular vision: to enable people from all walks of life to write about their travels to spectacular destinations all over the globe in order to foster a sense of global community and a heightened cultural awareness.
 
 Our founder - a world renowned ice-cream-eating contest champion, gourmet hot-dog connoisseur, and bespoke phone case designer - has hired a diverse pool of talent to execute this vision, a pool that begins and ends with you!
 
